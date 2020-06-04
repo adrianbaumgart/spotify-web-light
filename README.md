@@ -8,4 +8,4 @@ Spotify Web Player in light mode
 
 *NOTE: This stylesheet only works with the Spotify Web Player*
 
-[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](MY.USER.CSS)
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/adrianbaumgart/spotify-web-light/master/spotify-webplayer-light.user.css)
