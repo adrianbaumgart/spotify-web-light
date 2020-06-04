@@ -9,6 +9,10 @@
 @author       Adrian Baumgart <mail@adrianbaumgart.de> (https://adrianbaumgart.de)
 ==/UserStyle== */
 
+/*! Github Dark v1.0.0 (2020-06-04) */
+/*! Repository: https://github.com/adrianbaumgart/spotify-web-light    */
+/*! License:    MIT */
+
 @-moz-document domain("open.spotify.com") {
 html {
     background-color: #fefefe;
