@@ -1,4 +1,3 @@
-@-moz-document domain("open.spotify.com") {
 /* ==UserStyle==
 @name         Spotify Web Light
 @namespace    https://github.com/adrianbaumgart/spotify-web-light
@@ -9,6 +8,8 @@
 @description  This theme adds a light mode to Spotify (Web Player only [open.spotify.com])
 @author       Adrian Baumgart <mail@adrianbaumgart.de> (https://adrianbaumgart.de)
 ==/UserStyle== */
+
+@-moz-document domain("open.spotify.com") {
 html {
     background-color: #fefefe;
 }
