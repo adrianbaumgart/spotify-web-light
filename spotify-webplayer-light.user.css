@@ -1,0 +1,208 @@
+@-moz-document domain("open.spotify.com") {
+/* ==UserStyle==
+@name         Spotify Web Light
+@namespace    https://github.com/adrianbaumgart/spotify-web-light
+@homepageURL  https://github.com/adrianbaumgart/spotify-web-light
+@updateURL    https://github.com/adrianbaumgart/spotify-web-light/spotify-webplayer-light.user.css
+@version      1.0.0
+@license      MIT
+@description  This theme adds a light mode to Spotify (Web Player only [open.spotify.com])
+@author       Adrian Baumgart <mail@adrianbaumgart.de> (https://adrianbaumgart.de)
+==/UserStyle== */
+html {
+    background-color: #fefefe;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+div,
+a,
+span {
+    color: black!important;
+}
+
+._56a12d0978529b654affa11ca9390bd7-scss {
+    color: black!important;
+}
+
+.Root__nav-bar {
+    background-color: #eee;
+}
+
+.NavBar__download-item {
+    background-color: #fefefe;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: gray;
+}
+
+.now-playing-bar-container,
+.Root__now-playing-bar {
+    background-color: #eee!important;
+}
+
+.progress-bar__fg {
+    background-color: #444;
+}
+
+.progress-bar__bg {
+    background-color: #ccc
+}
+
+.PlayButton {
+    color: #111;
+}
+
+.control-button {
+    color: #111;
+}
+
+.control-button--circled:after {
+    border: 1px solid #555;
+}
+
+.control-button--circled:hover::after {
+    border: 1px solid #777;
+}
+
+._1aca8ea6d314e58957d99cc0df0d2ca1-scss {
+    background-color: #fefefe!important;
+    background-image: none;
+}
+
+._21f29c9d16bf3b2adbeb2fe04bdcbe8b-scss {
+    background-color: #fefefe!important;
+    background-image: none;
+}
+
+.e082d93e1995fad3363fcbc6ae888189-scss {
+    background-color: #eee;
+}
+
+._9764a8966c108117bdf6f47cb601747a-scss {
+    background-color: #eee;
+    background-image: none;
+}
+
+._7d5bb5bfd500c0c322fb865b69181717-scss {
+    background-color: #fefefe;
+}
+
+.navBar-link--active {
+    background-color: #ddd;
+}
+
+._3cf7cb92e8b34cd675db241406113852-scss {
+    background-color: #efefef
+}
+
+._34098cfd13d48e2910679f35aea2c377-scss {
+    background-color: #eee;
+}
+
+._34098cfd13d48e2910679f35aea2c377-scss:hover {
+    background-color: #ddd;
+}
+
+._5d8857b271ece35ed4dd191b5b15f48e-scss:hover {
+    background-color: #eee!important;
+}
+
+.be059487cfa7b71ee0f482c8e5be2b7e-scss {
+    background-color: #eee!important;
+}
+
+.spoticon-heart-16:hover {
+    color: #777
+}
+
+.now-playing-bar-container {
+    border-top: none;
+}
+
+.react-contextmenu {
+    background-color: #eee;
+}
+
+.react-contextmenu-item:hover {
+    background-color: #ddd;
+}
+
+.f79dd23c27c3352da3ac3ba62d78f8ea-scss {
+    color: white !important;
+}
+
+.dc1cc34e88857bd0de4d7a4dc3c528a5-scss {
+    color: white !important;
+}
+
+._7c0399398b8b07b1b1fa6764a3ed59b1-scss .inputBox {
+    background-color: #ccc;
+}
+
+.inputBox-input {
+    color: black;
+}
+
+._2221af4e93029bedeab751d04fab4b8b-scss {
+    color: white!important;
+}
+
+.download-page-inner h1,
+.download-page-inner h2 {
+    color: black !important;
+}
+
+.control-button:hover {
+    color: #777;
+}
+
+.RootlistItemPlaylist__text-wrapper span:hover {
+    color: #777!important;
+}
+
+._8bd4ffee0c4ab95a0e2112c25a7c251e-scss {
+    color: #fff!important;
+}
+
+.adcd1f81c1b64d2212fa5e532c5baa4f-scss {
+    color: #fff!important;
+}
+
+/*_7978d1a53eb00cc7b3a900c911fd0493-scss _8bfc65eb3b883f9eed4b640911ea9302-scss*/
+._8bfc65eb3b883f9eed4b640911ea9302-scss {
+    color: white!important;
+}
+
+.fe734d4199c79a07c0fbcfc81fb4a4b4-scss,
+.fe76f7ca2668f809d6988f081969e050-scss {
+    color: white !important;
+}
+
+.c2b6b16b40490633be2827b839bc553c-scss span {
+    color: white !important;
+}
+
+.connect-device-list-container,
+.connect-device-list-item {
+    background-color: #eee!important;
+}
+
+.connect-header__image {
+    filter: invert(100%)
+}
+
+.connect-device-list-item:hover {
+    background-color: #fefefe!important;
+}
+
+.Rootlist__divider {
+    background-color: #888!important;
+}
+}
